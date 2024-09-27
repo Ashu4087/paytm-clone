@@ -1,0 +1,17 @@
+
+.heading {
+    font: bold;
+    /* text-size: 4px; */
+    padding-top: 6px;
+    border: 2px solid black;
+}
+
+.textInput {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.handleBtn {
+    background-color: black;
+    text: #fff;
+    text-align: center;
+}
